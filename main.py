@@ -12,7 +12,6 @@ def generate_phonetic():
         print("Sorry, only letters in the alphabet please.")
         generate_phonetic()
     else:
-        is_input_valid = True
         print(phonetic_code)
 
 
